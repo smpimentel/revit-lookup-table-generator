@@ -1,3 +1,4 @@
+# This is no longer being used, this was my concept for what is now in the js version.
 import csv
 import itertools
 from typing import List, Dict
